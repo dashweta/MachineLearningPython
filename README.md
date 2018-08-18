@@ -26,3 +26,7 @@ https://www.analyticsvidhya.com/ultimate-plan-data-scientist-2016/
 
 Digits database mnist db : 
 http://yann.lecun.com/exdb/mnist/
+
+Python, pip, anaconda and miniconda installation guide for MacOS:
+https://wilsonmar.github.io/python-install/
+
