@@ -30,3 +30,6 @@ http://yann.lecun.com/exdb/mnist/
 Python, pip, anaconda and miniconda installation guide for MacOS:
 https://wilsonmar.github.io/python-install/
 
+Netflix blog for jupyter notebook innovation - (also have data roles and workings)
+https://medium.com/netflix-techblog/notebook-innovation-591ee3221233
+
