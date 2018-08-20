@@ -56,3 +56,7 @@ https://www.youtube.com/results?search_query=Machine+Learning+%28Stanford%29
 
 Siraj Raval - Curriculam link
 https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
+
+
+<b> Data visualization : </b>
+https://carto.com/blog/eighty-data-visualizations-examples-using-location-data-maps/
