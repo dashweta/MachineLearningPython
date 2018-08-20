@@ -33,3 +33,26 @@ https://wilsonmar.github.io/python-install/
 Netflix blog for jupyter notebook innovation - (also have data roles and workings)
 https://medium.com/netflix-techblog/notebook-innovation-591ee3221233
 
+<b>Deep Learning : </b>
+Jeremy Howard - 
+http://course.fast.ai/ 
+http://course.fast.ai/part2.html
+
+Andrew Ng - 
+https://www.deeplearning.ai/
+https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
+Michael Nielsen - (good online pdf)
+http://neuralnetworksanddeeplearning.com/
+
+Siraj Raval - Curriculum link
+https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/
+
+<b>Machine Learning : </b>
+Andrew Ng
+https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
+
+Standford playlist for machine learning - 
+https://www.youtube.com/results?search_query=Machine+Learning+%28Stanford%29
+
+Siraj Raval - Curriculam link
+https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
