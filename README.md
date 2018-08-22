@@ -63,5 +63,8 @@ http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-
 Geoffrey Hinton - (Father of deep learning)
 https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&disable_polymer=true
 
+Peter Norvig and Sebastian Thrun Udacity course - 
+https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
+
 <b> Data visualization : </b>
 https://carto.com/blog/eighty-data-visualizations-examples-using-location-data-maps/
