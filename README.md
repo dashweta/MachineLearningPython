@@ -57,6 +57,11 @@ https://www.youtube.com/results?search_query=Machine+Learning+%28Stanford%29
 Siraj Raval - Curriculam link
 https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 
+Jeremy Howard - 
+http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826
+
+Geoffrey Hinton - (Father of deep learning)
+https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&disable_polymer=true
 
 <b> Data visualization : </b>
 https://carto.com/blog/eighty-data-visualizations-examples-using-location-data-maps/
