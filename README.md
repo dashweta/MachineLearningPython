@@ -38,6 +38,11 @@ Jeremy Howard -
 http://course.fast.ai/ 
 http://course.fast.ai/part2.html
 
+
+<b> Forbes list of courses </b>
+
+https://www.forbes.com/sites/bernardmarr/2017/06/06/the-9-best-free-online-big-data-and-data-science-courses/#ff2712243cdb
+
 Andrew Ng - 
 https://www.deeplearning.ai/
 https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
