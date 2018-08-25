@@ -68,3 +68,11 @@ https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
 
 <b> Data visualization : </b>
 https://carto.com/blog/eighty-data-visualizations-examples-using-location-data-maps/
+
+
+
+<b> Maths </b> 
+
+Rachel Thomas - fast.ai 
+https://github.com/fastai/numerical-linear-algebra
+https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY&disable_polymer=true
