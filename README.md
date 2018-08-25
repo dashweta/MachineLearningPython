@@ -76,3 +76,6 @@ https://carto.com/blog/eighty-data-visualizations-examples-using-location-data-m
 Rachel Thomas - fast.ai 
 https://github.com/fastai/numerical-linear-algebra
 https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY&disable_polymer=true
+
+<b>Fast.ai</b>
+http://www.fast.ai/tag/courses/
