@@ -21,6 +21,10 @@ https://www.quora.com/How-do-I-become-a-data-scientist-without-a-PhD
 kdnuggets online tutorials :
 https://www.kdnuggets.com/tutorials/index.html
 
+Course on maths : 
+https://brilliant.org/
+https://reference.wolfram.com/
+
 Analytics vidya :
 https://www.analyticsvidhya.com/ultimate-plan-data-scientist-2016/
 
