@@ -22,8 +22,10 @@ kdnuggets online tutorials :
 https://www.kdnuggets.com/tutorials/index.html
 
 Course on maths : 
-https://brilliant.org/
+<p>https://brilliant.org/ </p>
+<p>
 https://reference.wolfram.com/
+</p>
 
 Analytics vidya :
 https://www.analyticsvidhya.com/ultimate-plan-data-scientist-2016/
