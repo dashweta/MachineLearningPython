@@ -60,7 +60,7 @@ https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/
 
 <b>Machine Learning : </b>
 Andrew Ng
-https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
+https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 
 Standford playlist for machine learning - 
 https://www.youtube.com/results?search_query=Machine+Learning+%28Stanford%29
