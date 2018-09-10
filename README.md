@@ -90,3 +90,7 @@ https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY&disable
 
 <b>Fast.ai</b>
 http://www.fast.ai/tag/courses/
+
+
+<b>NLP lectures </b> 
+<p>https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg/playlists</p>
