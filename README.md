@@ -80,7 +80,11 @@ https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
 <b> Data visualization : </b>
 https://carto.com/blog/eighty-data-visualizations-examples-using-location-data-maps/
 
+<b>Median Blog: Curated List </b>
+https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
 
+<b> Chris Albon </b>
+https://chrisalbon.com/
 
 <b> Maths </b> 
 
