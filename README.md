@@ -98,3 +98,9 @@ http://www.fast.ai/tag/courses/
 
 <b>NLP lectures </b> 
 <p>https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg/playlists</p>
+
+<b>MIT self driving cars</b>
+https://trello.com/c/g58zlHLN/158-mit-self-driving-car-course
+
+<b>MIT general ai</b>
+https://agi.mit.edu/
