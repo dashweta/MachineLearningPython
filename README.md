@@ -51,6 +51,9 @@ https://www.forbes.com/sites/bernardmarr/2017/06/06/the-9-best-free-online-big-d
 
 Andrew Ng - 
 https://www.deeplearning.ai/
+Assignmemts online : 
+https://github.com/Gurupradeep/deeplearning.ai-Assignments
+
 https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN
 Michael Nielsen - (good online pdf)
 http://neuralnetworksanddeeplearning.com/
