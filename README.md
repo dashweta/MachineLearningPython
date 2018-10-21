@@ -107,3 +107,7 @@ https://trello.com/c/g58zlHLN/158-mit-self-driving-car-course
 
 <b>MIT general ai</b>
 https://agi.mit.edu/
+
+
+<b>Good github innovation</b>
+https://github.com/ZuzooVn/machine-learning-for-software-engineers
