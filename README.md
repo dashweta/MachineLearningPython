@@ -111,3 +111,7 @@ https://agi.mit.edu/
 
 <b>Good github ML links</b>
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
+
+
+<b> Genetic algorithm - ai playing games </b>
+https://github.com/Code-Bullet
