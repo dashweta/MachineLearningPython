@@ -84,9 +84,9 @@ https://www.udacity.com/course/intro-to-artificial-intelligence--cs271
 https://carto.com/blog/eighty-data-visualizations-examples-using-location-data-maps/
 
 <b>Median Blog: Curated List </b>
-<p>https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524</p>
-<p>Fast.ai deep learning lessons summary</p>
-<p>https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-2-eeae2edd2be4</p>
+https://medium.com/machine-learning-in-practice/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524
+Fast.ai deep learning lessons summary
+https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-2-eeae2edd2be4
 
 
 <b> Chris Albon </b>
