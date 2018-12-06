@@ -118,3 +118,8 @@ https://github.com/ZuzooVn/machine-learning-for-software-engineers
 
 <b> Genetic algorithm - ai playing games </b>
 https://github.com/Code-Bullet
+
+
+To read
+https://towardsdatascience.com/which-nba-players-are-most-similar-machine-learning-provides-the-answers-r-project-b903f9b2fe1f
+
