@@ -74,6 +74,10 @@ https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months
 Jeremy Howard - 
 http://forums.fast.ai/t/another-treat-early-access-to-intro-to-machine-learning-videos/6826
 
+fast.ai 2nd volume - 
+https://github.com/cedrickchee/knowledge/blob/master/courses/fast.ai/deep-learning-part-2/2018-edition/lesson-14-image-segmentation.md
+
+
 Geoffrey Hinton - (Father of deep learning)
 https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&disable_polymer=true
 
