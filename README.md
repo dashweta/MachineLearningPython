@@ -131,3 +131,11 @@ To read
 https://towardsdatascience.com/which-nba-players-are-most-similar-machine-learning-provides-the-answers-r-project-b903f9b2fe1f
 https://towardsdatascience.com/using-tensorflow-object-detection-to-control-first-person-shooter-games-c2c7f1daf2e9
 
+<b> Project Material </b>
+<b> 1. Sketch to HTML </b>
+https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/
+https://github.com/emilwallner/Screenshot-to-code/blob/master/README.md
+https://arxiv.org/abs/1705.07962
+https://machinelearningmastery.com/develop-a-caption-generation-model-in-keras/
+https://github.com/tonybeltramelli/pix2code
+https://airbnb.design/sketching-interfaces/
