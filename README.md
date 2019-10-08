@@ -142,3 +142,7 @@ https://airbnb.design/sketching-interfaces/
 https://sketch2code.azurewebsites.net/ 
 https://airbnb.design/sketching-interfaces/
 uizard
+
+
+<b> Python basics : <b>
+  http://cs231n.github.io/python-numpy-tutorial/
